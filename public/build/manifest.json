@@ -1,0 +1,114 @@
+{
+  "node_modules/canvg/lib/index.es.js": {
+    "file": "assets/index.es-0610bf49.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "node_modules/canvg/lib/index.es.js"
+  },
+  "node_modules/dompurify/dist/purify.es.js": {
+    "file": "assets/purify.es-97851335.js",
+    "isDynamicEntry": true,
+    "src": "node_modules/dompurify/dist/purify.es.js"
+  },
+  "node_modules/html2canvas/dist/html2canvas.esm.js": {
+    "file": "assets/html2canvas.esm-0a33ed42.js",
+    "isDynamicEntry": true,
+    "src": "node_modules/html2canvas/dist/html2canvas.esm.js"
+  },
+  "resources/js/Fonts/AvenirNextCyr-Bold.ttf": {
+    "file": "assets/AvenirNextCyr-Bold-b61ecc5b.ttf",
+    "src": "resources/js/Fonts/AvenirNextCyr-Bold.ttf"
+  },
+  "resources/js/Fonts/AvenirNextCyr-Demi.ttf": {
+    "file": "assets/AvenirNextCyr-Demi-73a9281f.ttf",
+    "src": "resources/js/Fonts/AvenirNextCyr-Demi.ttf"
+  },
+  "resources/js/Fonts/AvenirNextCyr-Heavy.ttf": {
+    "file": "assets/AvenirNextCyr-Heavy-a9b68dea.ttf",
+    "src": "resources/js/Fonts/AvenirNextCyr-Heavy.ttf"
+  },
+  "resources/js/Fonts/AvenirNextCyr-Medium.ttf": {
+    "file": "assets/AvenirNextCyr-Medium-9b9478f9.ttf",
+    "src": "resources/js/Fonts/AvenirNextCyr-Medium.ttf"
+  },
+  "resources/js/Fonts/AvenirNextCyr-Regular.ttf": {
+    "file": "assets/AvenirNextCyr-Regular-db85d89c.ttf",
+    "src": "resources/js/Fonts/AvenirNextCyr-Regular.ttf"
+  },
+  "resources/js/Fonts/BadScript-Regular.ttf": {
+    "file": "assets/BadScript-Regular-735d1d15.ttf",
+    "src": "resources/js/Fonts/BadScript-Regular.ttf"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-81a452a4.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.jsx": {
+    "assets": [
+      "assets/logo-og-dbc9aa9a.png",
+      "assets/OG_logo_wit-8a323e18.svg",
+      "assets/flowOG-e6edadb1.png",
+      "assets/arrow-ab32b5c4.png",
+      "assets/banner-1-6d6e5e42.jpg",
+      "assets/header_2-11c1603a.png",
+      "assets/arrowleft-1d061afe.png",
+      "assets/image_2-261e099b.png",
+      "assets/background-ecd5b8dc.png",
+      "assets/AvenirNextCyr-Regular-db85d89c.ttf",
+      "assets/AvenirNextCyr-Demi-73a9281f.ttf",
+      "assets/AvenirNextCyr-Bold-b61ecc5b.ttf",
+      "assets/AvenirNextCyr-Heavy-a9b68dea.ttf",
+      "assets/AvenirNextCyr-Medium-9b9478f9.ttf",
+      "assets/BadScript-Regular-735d1d15.ttf"
+    ],
+    "css": [
+      "assets/app-81a452a4.css"
+    ],
+    "dynamicImports": [
+      "node_modules/html2canvas/dist/html2canvas.esm.js",
+      "node_modules/dompurify/dist/purify.es.js",
+      "node_modules/canvg/lib/index.es.js"
+    ],
+    "file": "assets/app-aab0ef9e.js",
+    "isEntry": true,
+    "src": "resources/js/app.jsx"
+  },
+  "resources/js/images/OG_logo_wit.svg": {
+    "file": "assets/OG_logo_wit-8a323e18.svg",
+    "src": "resources/js/images/OG_logo_wit.svg"
+  },
+  "resources/js/images/arrow.png": {
+    "file": "assets/arrow-ab32b5c4.png",
+    "src": "resources/js/images/arrow.png"
+  },
+  "resources/js/images/arrowleft.png": {
+    "file": "assets/arrowleft-1d061afe.png",
+    "src": "resources/js/images/arrowleft.png"
+  },
+  "resources/js/images/background.png": {
+    "file": "assets/background-ecd5b8dc.png",
+    "src": "resources/js/images/background.png"
+  },
+  "resources/js/images/banner-1.jpg": {
+    "file": "assets/banner-1-6d6e5e42.jpg",
+    "src": "resources/js/images/banner-1.jpg"
+  },
+  "resources/js/images/flowOG.png": {
+    "file": "assets/flowOG-e6edadb1.png",
+    "src": "resources/js/images/flowOG.png"
+  },
+  "resources/js/images/header_2.png": {
+    "file": "assets/header_2-11c1603a.png",
+    "src": "resources/js/images/header_2.png"
+  },
+  "resources/js/images/image_2.png": {
+    "file": "assets/image_2-261e099b.png",
+    "src": "resources/js/images/image_2.png"
+  },
+  "resources/js/images/logo-og.png": {
+    "file": "assets/logo-og-dbc9aa9a.png",
+    "src": "resources/js/images/logo-og.png"
+  }
+}

@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "avenirnext-regular";
+    src: url("../js/Fonts/AvenirNextCyr-Regular.ttf");
+}
+@font-face {
+    font-family: "avenirnext-demi";
+    src: url("../js/Fonts/AvenirNextCyr-Demi.ttf");
+}
+@font-face {
+    font-family: "avenirnext-bold";
+    src: url("../js/Fonts/AvenirNextCyr-Bold.ttf");
+}
+@font-face {
+    font-family: "avenirnext-heavy";
+    src: url("../js/Fonts/AvenirNextCyr-Heavy.ttf");
+}
+@font-face {
+    font-family: "avenirnext-medium";
+    src: url("../js/Fonts/AvenirNextCyr-Medium.ttf");
+}
+@font-face {
+    font-family: "badscript-regular";
+    src: url("../js/Fonts/BadScript-Regular.ttf");
+}
+
