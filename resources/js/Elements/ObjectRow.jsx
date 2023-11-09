@@ -6,7 +6,7 @@ export default class Button extends React.Component {
     }
 
     render() {
-        return(
+        return (
             <tr>
                 <th
                     scope="row"
@@ -15,13 +15,14 @@ export default class Button extends React.Component {
                     {this.props.name}
                 </th>
                 <td className="px-6 py-4 border-l-2 border-gray-900 text-2xl">
-                    {this.props.nu}
+                    <p className="text-black">{this.props.nu}</p>
                 </td>
                 <td className="px-6 py-4 border-l border-gray-900 text-2xl">
-                    {this.props.straks}
-                </td><td className="px-6 py-4 border-l border-gray-900 text-2xl">
-                {this.props.later}
-            </td>
+                    <p className="text-black">{this.props.straks}</p>
+                </td>
+                <td className="px-6 py-4 border-l border-gray-900 text-2xl">
+                    <p className="text-black">{this.props.later}</p>
+                </td>
             </tr>
         )
     }
